@@ -5,12 +5,10 @@
 
 
 NO!
-
 > Couldn't see any course where Cybersecurity is even mentioned.
 > Too much competition
 
 YES!
-
 > Can apply for Computer Science though.
 > Very low fee
 
@@ -19,11 +17,9 @@ YES!
 > https://www.tu-darmstadt.de/studieren/studieninteressierte/studienangebot_studiengaenge/studiengang_184129.en.jsp
 
 NO!
-
 > German is required
 
 YES!
-
 > Low fee
 
 3. University of Freiburg
@@ -36,3 +32,57 @@ YES!
 > OK fee - 3310 EUR/YEAR + 12000 EURO/YEAR living cost
 > Specialization in Cyber-Physical Systems
 > English taught
+
+4. TUB
+> Technical University of Berlin
+> https://www.tu.berlin/en/studying/study-programs/all-programs-offered/study-course/computer-science-informatik-m-sc/
+
+NO!
+> No Cybersecurity Specialization
+
+YES!
+> Low fee
+> Reputed
+
+5. University of Stuttgart
+> https://www.uni-stuttgart.de/en/study/study-programs/Computer-Science-M.Sc-00002./
+
+NO!
+> No specialisation in Cybersecurity
+
+YES!
+> Reputed
+> English taught
+> OK fee
+
+6. Technical University Dresden
+> https://tu-dresden.de/studium/vor-dem-studium/studienangebot/sins/sins_studiengang?autoid=73
+
+NO!
+> German taught
+
+YES!
+> Reputed
+
+7. University of Goettingen
+> https://www.uni-goettingen.de/en/40954.html
+
+NO!
+> No specialization
+
+YES!
+> Low fee
+> Reputed
+
+8. Brandenburg University of Technology Cottbus-Senftenberg • Cottbus 
+> https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4785/
+
+NO!
+>
+
+YES!
+> MS in Cyber Security
+> English taught
+> Low fee
+
+9. 
