@@ -1,4 +1,7 @@
 
+GERMANY
+------
+
 1. TUM
 > Technical University of Munich
 > https://www.tum.de/en/studies/degree-programs/detail/computational-science-and-engineering-cse-master-of-science-msc/
@@ -85,4 +88,31 @@ YES!
 > English taught
 > Low fee
 
-9. 
+-------------------------
+
+Israel
+------
+
+1. Ben Gurion University of the Negev
+> https://in.bgu.ac.il/en/international/Pages/Graduate/sise.aspx
+
+NO!
+> No Specialization in Cybersecurity
+
+YES!
+> Low fee
+> Better teacher:student ratio
+> Low fee
+
+2. IDC Herzliya
+> https://www.idc.ac.il/en/schools/rris/graduate/pages/msc-main.aspx
+
+NO!
+> No specialization in Cybersecurity
+
+YES!
+> International
+> English taught
+> OK fee
+
+3. 
